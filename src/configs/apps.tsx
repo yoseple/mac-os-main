@@ -25,16 +25,16 @@ const apps: AppsData[] = [
     img: "img/icons/bear.png",
     content: <Bear />
   },
-  {
-    id: "typora",
-    title: "Typora",
-    desktop: true,
-    width: 600,
-    height: 580,
-    y: -20,
-    img: "img/icons/typora.png",
-    content: <Typora />
-  },
+  // {
+  //   id: "typora",
+  //   title: "Typora",
+  //   desktop: true,
+  //   width: 600,
+  //   height: 580,
+  //   y: -20,
+  //   img: "img/icons/typora.png",
+  //   content: <Typora />
+  // },
   {
     id: "safari",
     title: "Safari",
