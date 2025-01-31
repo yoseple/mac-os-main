@@ -15,6 +15,6 @@ Welcome to the Playground macOS repository! This project is a robust web applica
 To get started with this project, clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-github-username/playground-macos.git
-cd playground-macos
+git clone https://github.com/your-github-username/mac-os-main.git
+cd mac-os-main
 pnpm install
